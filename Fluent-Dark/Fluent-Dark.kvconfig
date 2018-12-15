@@ -363,7 +363,6 @@ frame.left=0
 frame.right=0
 frame.top=0
 frame.bottom=0
-indicator.element=grip
 indicator.size=13
 frame.expansion=0
 
