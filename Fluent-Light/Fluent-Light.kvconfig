@@ -61,6 +61,7 @@ submenu_overlap=0
 tooltip_delay=-1
 transient_groove=true
 tree_branch_line=false
+no_inactiveness=true
 contrast=1.1
 saturation=1.40
 
