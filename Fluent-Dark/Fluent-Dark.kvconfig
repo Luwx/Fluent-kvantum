@@ -76,10 +76,10 @@ frame.patternsize=20
 window.color=#121212ff
 base.color=#0000006e
 alt.base.color=#ffffff10
-button.color=#f6f6f6
+button.color=#404040
 light.color=#f6f6f6
 mid.light.color=#f5f5f5
-dark.color=#c8c8c8
+dark.color=#151515ff
 mid.color=#c6c8cc00
 highlight.color=#5294e2
 inactive.highlight.color=#5294e2
@@ -246,7 +246,7 @@ text.focus.color=ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 frame.expansion=0
-indicator.size=8
+indicator.size=12
 text.shadow=false
 
 [TabFrame]
@@ -270,6 +270,9 @@ indicator.element=tree
 
 [HeaderSection]
 inherits=PanelButtonCommand
+interior=true
+interior.element=header
+frame.element=header
 frame.top=1
 frame.bottom=1
 frame.left=1
